@@ -2,7 +2,7 @@
 
 ### Preface
 
-The purpose of this is not to ram through my ideas. The purpose of this is to highlight the pettiness and what I see as mis-management on the part of sponsorblock, and also the GPL violations on the part of Github.
+The purpose of this is not to ram through my ideas. The purpose of this is to highlight the pettiness and what I see as mismanagement on the part of sponsorblock, and also the GPL violations on the part of Github.
 
 ### Idea 1: Full video fraud category
 
