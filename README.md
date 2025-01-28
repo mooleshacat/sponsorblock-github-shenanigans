@@ -2,6 +2,12 @@
 
 ### Preface
 
+The purpose of this is not to ram through my ideas. The purpose of this is to highlight the pettiness and what I see as mis-management on the part of sponsorblock, and also the GPL violations on the part of Github.
+
+### Idea 1: Full video fraud category
+
+### Idea 2: per channel playback speed
+
 ### Sponsorblock pettiness / ban
 For some reason out of all of this, I have received a ban from the sponsorblock Github repository. This pettiness prevents me from obtaining support, suggesting new features, communicating with the community, forking, starring, etc.
 
