@@ -16,4 +16,4 @@ This pettiness prevents me from obtaining support, suggesting new features, comm
 As a result of the sponsorblock repository ban, and the way Github is currently designed, I am unable to star or fork the sponsorblock repository. This is a clear GPL violation and while sponsorblock is the one responsible for the ban, they are not responsible for how Github is designed. Github is directly violating the GPL on the repository owner's behalf by not allowing me to fork the code simply for being banned. Not being able to star the repository is just stupid and affects only the maintainer.
 
 ### My thoughts
-While I will still use and recommend sponsorblock, I am definitely not going to donate to sponsorblock in the future. I don't like the pettiness and child-like response.
+While I will still use and recommend sponsorblock, I am definitely not going to donate to sponsorblock in the future. I don't like the pettiness and child-like response. I don't like the lack of explanation or discussion before closing an issue. They can however manage their project how they like.
