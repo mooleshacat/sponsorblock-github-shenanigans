@@ -1,3 +1,5 @@
-# Note about sponsorblock pettiness and GitHub GPL violation(s)
+# Note about sponsorblock pettiness and Github GPL violation(s)
 
 ### Preface
+
+### Github GPL Violations
