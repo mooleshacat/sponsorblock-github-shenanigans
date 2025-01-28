@@ -27,6 +27,8 @@ Keep in mind, the ban was not for doing anything bad or wrong, but for simply su
 This pettiness and mismanagement prevents me from obtaining support, suggesting new features, communicating with the community, forking, starring, etc.
 
 ### Github GPL Violations
+Sponsorblock currently uses a [GPL v3 license](https://github.com/ajayyy/SponsorBlock/blob/master/LICENSE)
+
 As a result of the sponsorblock repository ban, and the way Github is currently designed, I am unable to star or fork the sponsorblock repository. This is a clear GPL violation and while sponsorblock is the one responsible for the ban, they are not responsible for how Github is designed.
 
 Github is directly violating the GPL on the repository owner's behalf by not allowing me to fork the code simply for being banned. Not being able to star the repository is just stupid and affects only the maintainer.
