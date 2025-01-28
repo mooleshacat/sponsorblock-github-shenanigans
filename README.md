@@ -13,7 +13,7 @@ The idea ticket was marked as "not planned" and closed without explanation or re
 ### Idea 2: per channel playback speed
 I found that I've been adding playback speed manually every time to a video. Considering one main reason people download sponsorblock is to save time, I figured adding a per-channel playback speed setting could save people even more time.
 
-Issue ticket: 
+Issue ticket: https://github.com/ajayyy/SponsorBlock/issues/2198
 
 This ticket was replied to by the maintainer, they said "Out of scope" then marked the ticket as "not planned" and closed the ticket.
 
