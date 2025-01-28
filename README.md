@@ -8,7 +8,7 @@ The purpose of this is not to ram through my ideas. The purpose of this is to hi
 ### Idea 2: per channel playback speed
 
 ### Sponsorblock pettiness / ban
-For some reason out of all of this, I have received a ban from the sponsorblock Github repository. I am sure it is a repository ban and not github ban, as my profile is still active on Github.
+For some reason out of all of this, I have received a ban from the sponsorblock Github repository. I am sure it is a repository ban and not Github ban, as my profile is still active on Github.
 
 This pettiness prevents me from obtaining support, suggesting new features, communicating with the community, forking, starring, etc.
 
