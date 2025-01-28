@@ -8,7 +8,7 @@ I saw as I was browsing the issue tickets a ticket about adding "scam" as a full
 
 Issue ticket: https://github.com/ajayyy/SponsorBlock/issues/2197
 
-The idea ticket was marked as "not planned" and closed without explanation or reply, without discussion with maintainer, and without discussion with the community.
+The issue ticket was marked as "not planned" and closed without explanation or reply, without discussion with maintainer, and without discussion with the community.
 
 ### Idea 2: per channel playback speed
 I found that I've been adding playback speed manually every time to a video. Considering one main reason people download sponsorblock is to save time, I figured adding a per-channel playback speed setting could save people even more time.
