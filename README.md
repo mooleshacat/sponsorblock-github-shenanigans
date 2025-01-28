@@ -24,7 +24,7 @@ For some reason out of all of this, I have received a ban from the sponsorblock 
 
 Keep in mind, the ban was not for doing anything bad or wrong, but for simply submitting two ideas. Anyone who submits ideas or creates issue tickets for any reason is a possible target of this unjust and petty banning. If you ban users who submit ideas or suggestions, eventually you will not receive ideas or suggestions.
 
-This pettiness prevents me from obtaining support, suggesting new features, communicating with the community, forking, starring, etc.
+This pettiness and mismanagement prevents me from obtaining support, suggesting new features, communicating with the community, forking, starring, etc.
 
 ### Github GPL Violations
 As a result of the sponsorblock repository ban, and the way Github is currently designed, I am unable to star or fork the sponsorblock repository. This is a clear GPL violation and while sponsorblock is the one responsible for the ban, they are not responsible for how Github is designed.
