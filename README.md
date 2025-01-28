@@ -10,9 +10,9 @@ The purpose of this is not to ram through my ideas. The purpose of this is to hi
 ### Sponsorblock pettiness / ban
 For some reason out of all of this, I have received a ban from the sponsorblock Github repository. I am sure it is a repository ban and not Github ban, as my profile is still active on Github.
 
-This pettiness prevents me from obtaining support, suggesting new features, communicating with the community, forking, starring, etc.
-
 Keep in mind, the ban was not for doing anything bad or wrong, but for submitting two ideas. Anyone who submits ideas or creates issue tickets for any reason is a possible target of this unjust and petty banning. If you ban users who submit ideas or suggestions, eventually you will not receive ideas or suggestions.
+
+This pettiness prevents me from obtaining support, suggesting new features, communicating with the community, forking, starring, etc.
 
 ### Github GPL Violations
 As a result of the sponsorblock repository ban, and the way Github is currently designed, I am unable to star or fork the sponsorblock repository. This is a clear GPL violation and while sponsorblock is the one responsible for the ban, they are not responsible for how Github is designed.
