@@ -22,7 +22,7 @@ IMHO this definitely is _not_ out of scope, considering one of the main reasons 
 ### Sponsorblock pettiness / ban
 For some reason out of all of this, I have received a ban from the sponsorblock Github repository. I am sure it is a repository ban and not Github ban, as my profile is still active on Github.
 
-Keep in mind, the ban was not for doing anything bad or wrong, but for submitting two ideas. Anyone who submits ideas or creates issue tickets for any reason is a possible target of this unjust and petty banning. If you ban users who submit ideas or suggestions, eventually you will not receive ideas or suggestions.
+Keep in mind, the ban was not for doing anything bad or wrong, but for simply submitting two ideas. Anyone who submits ideas or creates issue tickets for any reason is a possible target of this unjust and petty banning. If you ban users who submit ideas or suggestions, eventually you will not receive ideas or suggestions.
 
 This pettiness prevents me from obtaining support, suggesting new features, communicating with the community, forking, starring, etc.
 
