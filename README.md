@@ -1,7 +1,7 @@
 # Note about sponsorblock pettiness and Github GPL violation(s)
 
 ### Purpose
-The purpose of this is not to ram through my ideas. The purpose of this is to highlight the pettiness and what I see as mismanagement on the part of sponsorblock, and also the GPL violations on the part of Github.
+The purpose of this is not to ram through my ideas. The purpose of this is to highlight the [pettiness and what I see as mismanagement on the part of sponsorblock](https://github.com/mooleshacat/sponsorblock-github-shenanigans/tree/master?tab=readme-ov-file#sponsorblock-pettiness--ban), and also the [GPL violations on the part of Github](https://github.com/mooleshacat/sponsorblock-github-shenanigans?tab=readme-ov-file#github-gpl-violations).
 
 ### Idea 1: full video fraud category
 I saw as I was browsing the issue tickets a ticket about adding "scam" as a full video category. This caused me to think also a fraud category would be a good idea.
