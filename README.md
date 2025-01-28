@@ -1,10 +1,9 @@
 # Note about sponsorblock pettiness and Github GPL violation(s)
 
-### Preface
-
+### Purpose
 The purpose of this is not to ram through my ideas. The purpose of this is to highlight the pettiness and what I see as mismanagement on the part of sponsorblock, and also the GPL violations on the part of Github.
 
-### Idea 1: Full video fraud category
+### Idea 1: full video fraud category
 
 ### Idea 2: per channel playback speed
 
