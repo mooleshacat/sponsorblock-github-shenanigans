@@ -15,7 +15,7 @@ I found that I've been adding playback speed manually every time to a video. Con
 
 Issue ticket: https://github.com/ajayyy/SponsorBlock/issues/2198
 
-This ticket was replied to by the maintainer, they said "Out of scope" then marked the ticket as "not planned" and closed the ticket.
+This ticket was replied to by the maintainer, they said "Out of scope" then marked the ticket as "not planned" and closed the ticket - without discussion from the community.
 
 IMHO this definitely is _not_ out of scope, considering one of the main reasons people download sponsorblock is to save time. While it is not _the_ main reason, it is _one of_ the reasons.
 
