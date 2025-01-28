@@ -4,8 +4,20 @@
 The purpose of this is not to ram through my ideas. The purpose of this is to highlight the pettiness and what I see as mismanagement on the part of sponsorblock, and also the GPL violations on the part of Github.
 
 ### Idea 1: full video fraud category
+I saw as I was browsing the issue tickets a ticket about adding "scam" as a full video category. This caused me to think also a fraud category would be a good idea.
+
+Issue ticket: https://github.com/ajayyy/SponsorBlock/issues/2197
+
+The idea ticket was marked as "not planned"/closed without explanation or reply, without discussion with maintainer, and without discussion with the community.
 
 ### Idea 2: per channel playback speed
+I found that I've been adding playback speed manually every time to a video. Considering one main reason people download sponsorblock is to save time, I figured adding a per-channel playback speed setting could save people even more time.
+
+Issue ticket: 
+
+This ticket was replied to by the maintainer, they said "Out of scope".
+
+IMHO this definitely is _not_ out of scope, considering one of the main reasons people download sponsorblock is to save time. While it is not _the_ main reason, it is _one of_ the reasons.
 
 ### Sponsorblock pettiness / ban
 For some reason out of all of this, I have received a ban from the sponsorblock Github repository. I am sure it is a repository ban and not Github ban, as my profile is still active on Github.
