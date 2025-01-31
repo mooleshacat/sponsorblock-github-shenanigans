@@ -24,7 +24,7 @@ For some reason out of all of this, I have received a ban from the sponsorblock 
 
 Keep in mind, the ban was not for doing anything bad or wrong, but for simply submitting two actually decent ideas. Anyone who submits ideas or creates issue tickets for any reason is a possible target of this unjust and petty banning. If you ban users who submit ideas or suggestions, eventually you will not receive ideas or suggestions.
 
-This pettiness and mismanagement prevents me from obtaining support, suggesting new features, communicating with the community, forking, starring, etc. If you don't like my idea(s) then fine, but don't block me for suggesting them.
+This pettiness and mismanagement prevents me from obtaining support, suggesting new features, communicating with the community, forking, starring, etc. If you don't like my idea(s) then fine, but don't ban me for suggesting them.
 
 ### Github GPL Violations
 Sponsorblock currently uses a [GPL v3 license](https://github.com/ajayyy/SponsorBlock/blob/master/LICENSE) which _requires_ that you allow everyone to fork and modify the source code.
